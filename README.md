@@ -1,5 +1,7 @@
 
-# Password Strength Checker
+<div align="center" style="font-size: 20px; font-weight: bold; color: green;">
+    Password Strength
+</div>
 
 A comprehensive and secure password strength checker that evaluates the strength of a password based on multiple factors such as length, complexity, entropy, common usage, and data breaches. This tool helps users create stronger passwords by providing detailed feedback and actionable suggestions.
 
