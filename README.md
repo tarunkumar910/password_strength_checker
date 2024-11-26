@@ -30,6 +30,16 @@ A comprehensive and secure password strength checker that evaluates the strength
 
 ---
 
+### Usage 
+
+```bash
+cd password-strength-checker
+python password_strength_checker.py
+```
+This will Display ##Enter a password to check its strength (or type 'exit' to quit):##
+
+
+---
 ## Installation
 
 ### Prerequisites
@@ -37,7 +47,10 @@ To use this password checker, you will need:
 - Python 3.x (Python 3.6 or above recommended)
 - Access to the internet for breach checking (uses HaveIBeenPwned API)
 
-### Step 1: Clone the repository
+### Step of Installing from Repositry 
 ```bash
-git clone https://github.com/yourusername/password-strength-checker.git
+git clone https://github.com/tarunkumar910/password_strength_checker.git
 cd password-strength-checker
+pip install -r requirements.txt
+python password_strength_checker.py
+```
