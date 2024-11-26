@@ -20,6 +20,12 @@ A comprehensive and secure password strength checker that evaluates the strength
 
 ## Features
 
+<h1 align="left">
+  <img src="static/subfinder-run.png" alt="subfinder" width="700px"></a>
+  <br>
+</h1>
+
+
 - **Password Length Check**: Ensures the password is of adequate length (at least 12 characters).
 - **Character Variety**: Checks for a mix of uppercase letters, lowercase letters, digits, and special characters.
 - **Entropy Calculation**: Calculates password entropy to measure its randomness and complexity.
@@ -36,9 +42,23 @@ A comprehensive and secure password strength checker that evaluates the strength
 cd password-strength-checker
 python password_strength_checker.py
 ```
-This will Display ##Enter a password to check its strength (or type 'exit' to quit):##
+This will Display  Enter a password to check its strength (or type 'exit' to quit): 
 
+ # ==================================================
+         PASSWORD STRENGTH CHECKER
+ # ==================================================
+    Password Strength: Very Strong
+    Password Entropy: 78.66 bits
 
+    Category: This password is highly secure. It meets all criteria and has high entropy.
+
+    General Suggestions to improve your password:
+
+      - Good news! This password has not been found in any known breaches.
+
+    Enter a password to check its strength (or type 'exit' to quit):
+
+ 
 ---
 ## Installation
 
