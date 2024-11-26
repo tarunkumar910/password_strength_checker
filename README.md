@@ -44,9 +44,9 @@ python password_strength_checker.py
 ```
 This will Display  Enter a password to check its strength (or type 'exit' to quit): 
 
- # ==================================================
+    ==================================================
          PASSWORD STRENGTH CHECKER
- # ==================================================
+    ==================================================
     Password Strength: Very Strong
     Password Entropy: 78.66 bits
 
