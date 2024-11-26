@@ -1,5 +1,5 @@
 <div align="center">
-    <h2 style="font-weight: bold; color: green;">Password Strength: Very Strong</h2>
+    <h1 style="font-weight: bold; color: blue;">Password Strength: Very Strong</h1>
 </div>
 
 
