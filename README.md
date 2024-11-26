@@ -1,9 +1,10 @@
 <div align="center">
-    <h1 style="font-weight: bold; color: blue;">Password Strength: Very Strong</h1>
+    <h1 style="font-weight: bold; color: blue;">Password Strength Checker </h1>
 </div>
 
 
 <p align="center">
+  <a href="#introduction">Introduction</a> •
   <a href="#features">Features</a> •
   <a href="#installation">Install</a> •
   <a href="#running-subfinder">Usage</a> •
