@@ -21,7 +21,7 @@ A comprehensive and secure password strength checker that evaluates the strength
 ## Features
 
 <h1 align="left">
-  <img src="static/subfinder-run.png" alt="subfinder" width="700px"></a>
+  <img src="image/image.png" alt="Password_Strength_Checker" width="700px"></a>
   <br>
 </h1>
 
