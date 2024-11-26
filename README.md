@@ -7,7 +7,7 @@
   <a href="#introduction">Introduction</a> •
   <a href="#features">Features</a> •
   <a href="#installation">Install</a> •
-  <a href="#running-subfinder">Usage</a> •
+  <a href="#usage">Usage</a> •
   <a href="#post-installation-instructions">API Setup</a> •
 </p>
 
