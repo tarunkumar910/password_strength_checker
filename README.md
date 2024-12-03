@@ -8,6 +8,7 @@
   <a href="#features">Features</a> •
   <a href="#installation">Install</a> •
   <a href="#usage">Usage</a>
+  <a href="#How to Work">Work</a>
 </p>
 
 
@@ -81,3 +82,16 @@ git clone https://github.com/your-repo/tic-tac-toe.git
 javac TicTacToe.java
 java TicTacToe
 ```
+
+
+---
+
+### How to Work
+
+- **Game Board**: A 3x3 grid is represented using a 2D array, with cells initialized to numbers 1-9.
+
+- **Player Input**: Players enter a number corresponding to the grid position to mark their move.
+
+- **Computer AI**: In Single Player mode, the computer chooses a random valid position.
+
+- **Win Checking**: After every move, the program checks for winning conditions (row, column, diagonal) or a draw.
