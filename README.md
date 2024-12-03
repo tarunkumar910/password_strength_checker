@@ -33,7 +33,7 @@ The goal of this project is to demonstrate core programming concepts such as:
 ## Features
 
 <h1 align="left">
-  <img src="image/image.png" alt="Password_Strength_Checker" width="700px"></a>
+  <img src="image/Tic_tac_to.png" alt="Password_Strength_Checker" width="700px"></a>
   <br>
 </h1>
 
@@ -79,7 +79,7 @@ To run this project, you need:
 - A terminal or command-line interface that supports ANSI escape codes for colored output.
 
   
-### Step of Installing from Repositry in linux
+### Step of Installing from Repositry 
 ```bash
 git clone https://github.com/your-repo/tic-tac-toe.git
 javac TicTacToe.java
