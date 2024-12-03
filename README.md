@@ -9,7 +9,9 @@
   <a href="#installation">Install</a> •
   <a href="#usage">Usage</a> •
   <a href="#work">Work</a> •
-  <a href="#future">Future</a>
+  <a href="#future">Future</a> •
+  <a href="#conclusion">Conclusion</a>
+    
 </p>
 
 
@@ -100,7 +102,14 @@ java TicTacToe
 
 ---
 
-### Future Enhancements 
+### Future 
+
 - Implement a more strategic AI using a minimax algorithm.
 - Add a graphical user interface (GUI) for better user experience.
 - Include score tracking across multiple games.
+
+---
+
+### Conclusion
+
+This project provides a simple and fun way to learn Java programming by implementing a popular game. It covers key concepts such as user interaction, arrays, and control structures while offering room for future enhancements.
