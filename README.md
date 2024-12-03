@@ -7,8 +7,8 @@
   <a href="#introduction">Introduction</a> •
   <a href="#features">Features</a> •
   <a href="#installation">Install</a> •
-  <a href="#usage">Usage</a>
-  <a href="#How to Work">Work</a>
+  <a href="#usage">Usage</a> •
+  <a href="#work">Work</a>
 </p>
 
 
@@ -86,7 +86,7 @@ java TicTacToe
 
 ---
 
-### How to Work
+### Work
 
 - **Game Board**: A 3x3 grid is represented using a 2D array, with cells initialized to numbers 1-9.
 
