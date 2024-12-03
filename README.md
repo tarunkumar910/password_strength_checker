@@ -34,51 +34,50 @@ The goal of this project is to demonstrate core programming concepts such as:
 </h1>
 
 
-- **Password Length Check**: Ensures the password is of adequate length (at least 12 characters).
-- **Character Variety**: Checks for a mix of uppercase letters, lowercase letters, digits, and special characters.
-- **Entropy Calculation**: Calculates password entropy to measure its randomness and complexity.
-- **Common Password Check**: Alerts users if their password is among commonly used passwords.
-- **Breach Check**: Checks if the password has been exposed in data breaches via the HaveIBeenPwned API.
-- **Enhanced Feedback**: Provides detailed suggestions for improving weak passwords.
-- **Auto Save Weak Passwords**: Tracks and saves weak or moderate passwords to a common passwords file for monitoring.
+- **Single Player Mode**: Play against a simple computer AI.
+- **Two Player Mode**: Play against another human player.
+- **Color-Coded Symbols**: Distinguish player moves (X in red, O in blue) for better visibility.
+- **Replay Option**: Play multiple rounds without restarting the program.
+- **Input Validation**: Ensures valid moves and prevents overwriting cells.
+- **Clear and Organized Game Board**: The board updates dynamically after each move, providing a clear view of the current game state.
+
 
 ---
 
 ### Usage 
 
-```bash
-cd password-strength-checker
-python password_strength_checker.py
-```
-This will Display  Enter a password to check its strength (or type 'exit' to quit): 
+- Launch the Game: Run the program in your terminal or command prompt.
 
-    ==================================================
-         PASSWORD STRENGTH CHECKER
-    ==================================================
-    Password Strength: Very Strong
-    Password Entropy: 78.66 bits
+- Choose a Game Mode:
 
-    Category: This password is highly secure. It meets all criteria and has high entropy.
+  - 1: Single Player (vs. Computer)
+  - 2: Two Players
+- Make Moves:
 
-    General Suggestions to improve your password:
+  - Players take turns entering a number (1-9) corresponding to the grid position.
+  - The computer makes random valid moves in Single Player mode.
+- Game End:
 
-      - Good news! This password has not been found in any known breaches.
+  - The game announces a winner or a draw.
+  - Players can choose to play again or exit.
+- Replay:
 
-    Enter a password to check its strength (or type 'exit' to quit):
-
+  - After each game, you'll be asked if you want to play again.
+  - Choosing "yes" resets the board and starts a new game
  
 ---
 ## Installation
 
 ### Prerequisites
-To use this password checker, you will need:
-- Python 3.x (Python 3.6 or above recommended)
-- Access to the internet for breach checking (uses HaveIBeenPwned API)
+To run this project, you need:
 
-### Step of Installing from Repositry 
+- Java Development Kit (JDK): Version 8 or higher.
+- A terminal or command-line interface that supports ANSI escape codes for colored output.
+
+  
+### Step of Installing from Repositry in linux
 ```bash
-git clone https://github.com/tarunkumar910/password_strength_checker.git
-cd password-strength-checker
-pip install -r requirements.txt
-python password_strength_checker.py
+git clone https://github.com/your-repo/tic-tac-toe.git
+javac TicTacToe.java
+java TicTacToe
 ```
