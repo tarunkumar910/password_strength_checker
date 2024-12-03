@@ -8,7 +8,8 @@
   <a href="#features">Features</a> •
   <a href="#installation">Install</a> •
   <a href="#usage">Usage</a> •
-  <a href="#work">Work</a>
+  <a href="#work">Work</a> •
+  <a href="#future">Future</a>
 </p>
 
 
@@ -95,3 +96,11 @@ java TicTacToe
 - **Computer AI**: In Single Player mode, the computer chooses a random valid position.
 
 - **Win Checking**: After every move, the program checks for winning conditions (row, column, diagonal) or a draw.
+
+
+---
+
+### Future Enhancements 
+- Implement a more strategic AI using a minimax algorithm.
+- Add a graphical user interface (GUI) for better user experience.
+- Include score tracking across multiple games.
