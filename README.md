@@ -13,7 +13,16 @@
 
 ## Introduction
 
-A comprehensive and secure password strength checker that evaluates the strength of a password based on multiple factors such as length, complexity, entropy, common usage, and data breaches. This tool helps users create stronger passwords by providing detailed feedback and actionable suggestions.
+The Tic-Tac-Toe game is a simple yet engaging implementation of the classic two-player strategy game. This project provides an interactive console-based version of the game with options for single-player (against a computer) or two-player modes. The game includes enhanced features such as colored player symbols (X and O), a replay option, and a user-friendly grid system for move selection.
+
+The goal of this project is to demonstrate core programming concepts such as:
+
+- Control structures (loops, conditionals)
+- Array manipulation
+- User input handling
+- Basic AI for single-player mode
+
+
 
 ---
 
